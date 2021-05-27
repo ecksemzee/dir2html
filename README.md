@@ -2,7 +2,7 @@
 Export contents of directory into HTML file.
 
 ##  Installation
-It's quite simple to set up the program, because all you need is compiler. First download the source code and compile the program. Make sure you set complier to target C++17 or newer. G++ CLI option for that is `-std=c++17`. OS doesn't matter, it will work on most OSes.
+Install G++ compiler then hit `make` in directory, where the soruce is
 
 ## Arguments
 After compiling the program, there are two argruments. Usage is:
